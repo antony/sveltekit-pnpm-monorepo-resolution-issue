@@ -1,0 +1,11 @@
+{
+  "name": "dep-repro",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "onpm build --filter './apps' --filter './components"
+  },
+  "author": "",
+  "license": "MIT"
+}
